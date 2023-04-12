@@ -1,0 +1,1 @@
+# model for PostgreSQL database to store user links
